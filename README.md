@@ -1,3 +1,5 @@
+[![Code Climate](https://codeclimate.com/github/Hermanverschooten/detect_user_agent/badges/gpa.svg)](https://codeclimate.com/github/Hermanverschooten/detect_user_agent) [![Test Coverage](https://codeclimate.com/github/Hermanverschooten/detect_user_agent/badges/coverage.svg)](https://codeclimate.com/github/Hermanverschooten/detect_user_agent) [![Circle CI](https://circleci.com/gh/Hermanverschooten/detect_user_agent.png?style=badge)](https://circleci.com/gh/Hermanverschooten/detect_user_agent)
+
 # DetectUserAgent
 
 Detect browser, os and platform based upon user agent
